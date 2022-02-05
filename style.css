@@ -27,9 +27,7 @@
             padding: 0 10px;
             margin: 0 auto;
         }
- .header {
-       background-image: url(../images/headerbg.jpg);
-}
+
         
         .header__top {
             display: flex;
@@ -67,7 +65,7 @@
         }
         
         .header__content {
-            background-image: url(../images/fish.png);
+            background-image: url(images/fish.png);
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
